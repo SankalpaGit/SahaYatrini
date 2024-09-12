@@ -1,6 +1,11 @@
 using Microsoft.Extensions.FileProviders;
+using SahaYatrini.Config; 
 
 var builder = WebApplication.CreateBuilder(args);
+
+// Configure database and EF Core
+DatabaseConfig.ConfigureDatabase(builder.Services, builder.Configuration);
+
 var app = builder.Build();
 
 // Serve static files from Views/static
