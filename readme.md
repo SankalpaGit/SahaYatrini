@@ -25,7 +25,7 @@
       <br /><strong>React.js</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGVV8fOc_D2_vxf1_MrxRuPeF3Y1EFAJrxg&s" width="48" height="48" alt="Tailwind CSS" />
       <br /><strong>Tailwind CSS</strong>
     </td>
   </tr>
