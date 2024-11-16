@@ -1,9 +1,8 @@
-// src/components/Footer.js
 import React from 'react';
 
 function Footer() {
   return (
-    <footer>
+    <footer className="bg-white text-orange-600 p-4 text-center shadow-footer">
       <p>&copy; 2024 SahaYatrini</p>
     </footer>
   );
